@@ -1,4 +1,4 @@
-![Keqing from Genshin Imact](https://github.com/Rongbin99/Rongbin99.github.io/blob/main/public/images/Wallpaper9-01.svg)
+![Keqing from Genshin Imact](https://github.com/Rongbin99/website-src/blob/main/public/images/Wallpaper9-01.svg)
 
 <div align="center">
 
