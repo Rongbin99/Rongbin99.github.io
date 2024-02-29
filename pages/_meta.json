@@ -1,0 +1,34 @@
+{
+    "index": "Home",
+    "stuff": {
+        "title": "Menu",
+        "type": "menu",
+        "items": {
+            "about": {
+                "title": "About",
+                "href": "/about"
+            },
+            "arts": {
+                "title": "Arts Portfolio",
+                "href": "/arts"
+            },
+            "projects": {
+                "title": "Side Projects",
+                "href": "/projects/index"
+            },
+            "posts": {
+                "title": "Blog Posts",
+                "href": "/posts/index"
+            },
+            "contact": {
+                "title": "Contact Me",
+                "href": "mailto:gu.rongbin99@gmail.com"
+            }
+        }
+    },
+    "resume_link": {
+        "title": "Resume",
+        "href": "https://rongbin99.github.io/resume/",
+        "newWindow": true
+    }
+}
