@@ -25,6 +25,7 @@ body {
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
   background-color: #592E83;
+  color: #eeeeee;
 }
 b,
 strong,
@@ -62,5 +63,5 @@ img.next-image {
 }
 
 .nav-line .nav-link {
-  color: #69778c;
+  color: #a1b0c7;
 }
