@@ -9,9 +9,11 @@
 Hi there 👋
 
 Welcome to my personal website! This is a passion project and is worked on passively. 
+
 - Resume: <a href="https://rongbin99.github.io/resume" target="_blank">https://rongbin99.github.io/resume</a>
 - Arts Portfolio: <a href="https://rongbin99.github.io/arts" target="_blank">https://rongbin99.github.io/arts</a>
 - Arts Portfolio Files: <a href="https://github.com/Rongbin99/arts-portfolio" target="_blank">https://github.com/Rongbin99/arts-portfolio</a>
+
 This website was created with [Next.js](https://nextjs.org/) and [nextra MDX](https://nextra.site/), using the [blog template](https://github.com/vercel/next.js/tree/canary/examples/blog) provided by Vercel.
 
 <div align="center">
