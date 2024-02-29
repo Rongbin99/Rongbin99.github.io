@@ -1,6 +1,6 @@
 ---
 type: posts
-title: Stuff
+title: Posts
 date: 2024-02-23
 ---
 
