@@ -41,18 +41,6 @@ The popular [2048 game](https://en.wikipedia.org/wiki/2048_(video_game)), progra
 
 <div align="center">
 
-### [SET]() ♠️
-
-</div>
-
-![SET Preview]()
-
-Work in progress...
-
-
-
-<div align="center">
-
 ### *more to come*
 
 </div>
