@@ -5,9 +5,58 @@ description: My anime list and rating.
 tag: anime
 author: You
 ---
+in no particular order
 
-| **Anime**  | **Rating**  |  **Emotions**  |  **Description**                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| **Anime**                         | **Rating**| **Emotions**  | **Thoughts**  | **W** 	| *Link*|
+|---------------------------------	|--------	|-----------    |------------	|--------	|------	|
+|                               	|        	|           	|            	|   ✅      | https://myanimelist.net/anime/44074/Shiguang_Dailiren     	|
+|                               	|        	|           	|           	|       	| https://myanimelist.net/anime/34572/Black_Clover     	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
+|                               	|        	|           	|           	|       	|      	|
