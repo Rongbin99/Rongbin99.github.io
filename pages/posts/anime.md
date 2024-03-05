@@ -1,11 +1,20 @@
 ---
 title: Animes Watched
-date: 2024/3/01
-description: My anime list and rating.
-tag: anime
-author: You
+date: 2024/3/05
+description: Animes that I've watched, and my rating.
+tag: anime, list
+author: Rongbin Gu
 ---
-in no particular order
+
+###### Every single anime that I have ever watched. Listed in no particular order. 
+
+[<u>Check out my drama list!</u>](drama.md)
+
+Notes:
+
+- *currently watching
+- **planning to watch
+- ***upcoming
 
 | **Anime**                         | **Rating**| **Emotions**  | **Thoughts**  | **W** 	| *Links*        |
 |---------------------------------	|--------	|-----------    |------------	|--------	|------	        |
