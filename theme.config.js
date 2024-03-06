@@ -17,6 +17,7 @@ export default {
       <style jsx>{`
         footer {
           margin-top: 7rem;
+          color: white;
         }
         a {
           float: right;
