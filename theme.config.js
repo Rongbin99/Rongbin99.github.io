@@ -15,12 +15,16 @@ export default {
 
       </small>
       <style jsx>{`
+        body {
+          color; white;
+        }
         footer {
           margin-top: 7rem;
           color: white;
         }
         a {
           float: right;
+          color; white;
         }
       `}</style>
     </footer>
