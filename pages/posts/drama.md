@@ -27,7 +27,7 @@ Notes:
 |:-----------------------------:|:------------:|:------------------:  |:------------: |:------:|:--------:|
 | When I Fly Towards You       	|  Chinese    |  10/10 <br> 9.9/10    | Feburary 2024 |  ✅   | [<u>MyDramaList</u>](https://mydramalist.com/62295-luo-yao-knew-what-he-meant)<br>[<u>YouTube Playlist</u>](https://www.youtube.com/playlist?list=PLATwx1z00Hseg8NeF0lV4Xa7vFfTyyFUe)    |
 | Everyone Loves Me*            |   Chinese   |   XX/10 <br> XX/10        |  March 2024	  |       	| [<u>MyDramaList</u>](https://mydramalist.com/744619-bie-dui-wo-dong-xin)<br>[<u>YouTube Playlist</u>]()|
-| Derailment**               	|   Chinese   |  XX/10 <br> XX/10	      |  XXXXX 2024   |       	| [<u>MyDramaList</u>](https://mydramalist.com/737525-derailment)<br>[<u>YouTube Playlist</u>]()|
+| Derailment**               	|   Chinese   |  XX/10 <br> XX/10	      |  XXXXX 2024   |       	| [<u>MyDramaList</u>](https://mydramalist.com/737525-derailment)<br>[<u>YouTube Playlist</u>](https://youtube.com/playlist?list=PLbBcESCAiV7GGZIgjtQVM_cijXWZBFgXU&si=gXb94ykNYBvzi8RD)|
 
 <!--
 |                	|      |  /10 <br> /10	      |    	          |       	| [<u>MyDramaList</u>]()<br>[<u>YouTube Playlist</u>]()|
