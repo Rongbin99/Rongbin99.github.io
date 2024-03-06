@@ -16,7 +16,7 @@ export default {
       </small>
       <style jsx>{`
         body {
-          color; white;
+          color: white;
         }
         footer {
           margin-top: 7rem;
@@ -24,7 +24,7 @@ export default {
         }
         a {
           float: right;
-          color; white;
+          color: white;
         }
       `}</style>
     </footer>
