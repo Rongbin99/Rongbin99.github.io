@@ -1,6 +1,6 @@
 ---
 title: Dramas Watched
-date: 2024/3/05
+date: 2024/03/05
 description: Dramas that I've watched, and my rating.
 tag: drama, list
 author: Rongbin Gu

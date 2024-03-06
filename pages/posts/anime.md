@@ -1,6 +1,6 @@
 ---
 title: Animes Watched
-date: 2024/3/05
+date: 2024/03/05
 description: Animes that I've watched, and my rating.
 tag: anime, list
 author: Rongbin Gu
