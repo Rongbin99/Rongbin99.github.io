@@ -1,4 +1,4 @@
 menu dropdown - https://nextra.site/docs/docs-theme/page-configuration#menus
-https://www.tablesgenerator.com/markdown_tables
 particles or remotion - https://www.remotion.dev/
 404 page
+add contents to arts page
