@@ -1,4 +1,9 @@
 menu dropdown - https://nextra.site/docs/docs-theme/page-configuration#menus
+- link to resume
 particles or remotion - https://www.remotion.dev/
+-> particles - implement
 404 page
+-> found templates, implement
 add contents to arts page
+decrease page margins if possible
+about page
