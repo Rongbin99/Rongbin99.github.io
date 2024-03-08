@@ -4,7 +4,6 @@ menu dropdown - https://nextra.site/docs/docs-theme/page-configuration#menus
 404 page
 -> stylize, add image? (attempt to add tsParticles)
 
-decrease page margins if possible
 about page
 
 arts page
