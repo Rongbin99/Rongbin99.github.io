@@ -2,7 +2,7 @@ menu dropdown - https://nextra.site/docs/docs-theme/page-configuration#menus
 - link to resume
 
 404 page
--> found templates, implement
+-> stylize, add image? (attempt to add tsParticles)
 
 decrease page margins if possible
 about page
