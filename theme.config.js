@@ -29,4 +29,12 @@ export default {
       `}</style>
     </footer>
   ),
+  navs: [
+    {
+      url: 'https://rongbin99.github.io/resume/',
+      name: 'Resume →',
+      target: '_blank',
+      rel: 'noopener noreferrer'
+    }
+  ]
 };
