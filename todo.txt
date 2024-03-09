@@ -3,5 +3,4 @@
 
 about page
 
-arts page
--> add video thumbnails + video snipplets
+food page
