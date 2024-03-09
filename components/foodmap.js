@@ -3,7 +3,7 @@
 const foodmap = () => {
     return (
         <div>
-            <p>foodmap</p>
+            <p>Work in progress...</p>
         </div>
     )
 }
