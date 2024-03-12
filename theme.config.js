@@ -16,7 +16,7 @@ export default {
       </small>
       <style jsx>{`
         body {
-          color: white;
+          color: white !important;
         }
         footer {
           margin-top: 7rem;
@@ -34,7 +34,8 @@ export default {
       url: 'https://rongbin99.github.io/resume/',
       name: 'Resume →',
       target: '_blank',
-      rel: 'noopener noreferrer'
+      rel: 'noopener noreferrer',
+      newWindow: true
     }
   ]
 };
