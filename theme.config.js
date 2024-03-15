@@ -15,7 +15,10 @@ export default {
 
       </small>
       <style jsx>{`
-        body {
+        dark.body {
+          color: white !important;
+        }
+        light.body {
           color: white !important;
         }
         footer {
