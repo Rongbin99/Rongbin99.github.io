@@ -4,7 +4,7 @@
         <description><![CDATA[Rongbin Gu]]></description>
         <link>https://rongbin99.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Mar 2024 07:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 01:24:31 GMT</lastBuildDate>
         <atom:link href="https://rongbin99.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2048, but Different]]></title>
@@ -18,16 +18,6 @@
             <pubDate>Thu, 29 Feb 2024 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Amazing Food Locations Near UWaterloo Campus]]></title>
-            <description><![CDATA[My favourite off-campus food locations near the University of Waterloo campus.]]></description>
-            <link>/posts/food</link>
-            <guid isPermaLink="true">/posts/food</guid>
-            <category><![CDATA[food]]></category>
-            <category><![CDATA[uw]]></category>
-            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Wed, 06 Mar 2024 05:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Animes Watched]]></title>
             <description><![CDATA[Animes that I've watched, and my rating.]]></description>
             <link>/posts/anime</link>
@@ -35,7 +25,7 @@
             <category><![CDATA[anime]]></category>
             <category><![CDATA[list]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Tue, 05 Mar 2024 05:00:00 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 04:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dramas Watched]]></title>
@@ -45,7 +35,29 @@
             <category><![CDATA[drama]]></category>
             <category><![CDATA[list]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Tue, 05 Mar 2024 05:00:00 GMT</pubDate>
+            <pubDate>Fri, 15 Mar 2024 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UWaterloo Off-Campus Food Places]]></title>
+            <description><![CDATA[My favourite off-campus food locations near the University of Waterloo campus.]]></description>
+            <link>/posts/food</link>
+            <guid isPermaLink="true">/posts/food</guid>
+            <category><![CDATA[food]]></category>
+            <category><![CDATA[uw]]></category>
+            <category><![CDATA[school]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Wed, 06 Mar 2024 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The IB Experience]]></title>
+            <description><![CDATA[The International Baccalaureate program and my experience (Class of M23)]]></description>
+            <link>/posts/ib</link>
+            <guid isPermaLink="true">/posts/ib</guid>
+            <category><![CDATA[ib]]></category>
+            <category><![CDATA[hs]]></category>
+            <category><![CDATA[school]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Sat, 30 Dec 2023 05:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
