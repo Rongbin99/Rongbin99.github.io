@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default {
   footer: (
-    <footer>
+    <footer className="text-white">
       <small>
         Made by Rongbin Gu. © <time>{YEAR}</time>
         <a href="/feed.xml">RSS</a>
