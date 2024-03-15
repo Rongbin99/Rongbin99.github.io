@@ -24,6 +24,14 @@ This website was created with [Next.js](https://nextjs.org/), [Nextra MDX](https
 
 <div align="center">
 
+## 🚨 BROKEN PAGES 🚨
+
+</div>
+
+IF YOU DISCOVER BROKEN LINKS OR PAGES, PLEASE LET ME KNOW! OPEN A ISSUE OR SOMEHOW MESSAGE ME SO I CAN FIX IT ASAP! Thanks :3
+
+<div align="center">
+
 ## 📨 Contact 📨
 
 </div>
