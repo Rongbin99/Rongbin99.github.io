@@ -1,4 +1,5 @@
 import { Helmet } from 'react-helmet';
+import Link from 'next/link';
 
 const NotFound = () => {
   return (
@@ -9,8 +10,20 @@ const NotFound = () => {
 
       <div className="flex flex-col items-center justify-center flex-grow">
         <div className="text-center text-white">
-          <h1 className="text-2xl md:text-4xl mb-2">Error 404: Page Not Found</h1>
-          <p className="text-xs md:text-sm mb-4">erm...</p>
+          <h1 className="text-3xl md:text-6xl mb-12">Error 404: Page Not Found</h1>
+          <p className="text-base md:text-xl mb-20">erm... if only you had a <a href='https://date-a-live.fandom.com/wiki/Kurumi_Tokisaki#Time_Manipulation' target='_blank' rel='noopener noreferrer'>time machine...</a></p>
+        </div>
+
+        <div className='text-center text-white'>
+          <button className='text-base md:text-xl py-3 px-6 rounded-xl border-transparent bg-rose-700 hover:bg-fuchsia-700 mb-12'>
+            <Link href="/">Rewind to Home</Link>
+          </button>
+        </div>
+
+        <div className='hover:scale-90'>
+          <a href='https://www.youtube.com/watch?v=WFrCVS76J6E' target='_blank' rel='noopener noreferrer'>
+            <img src='/images/404_kurumi.png' alt='Kurumi Blanked' style={{height: "400px", width: "400px"}}/>
+          </a>
         </div>
       </div>
     </div>
