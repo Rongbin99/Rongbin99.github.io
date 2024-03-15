@@ -1,1 +1,6 @@
-{"/_app":"pages/_app.js","/_error":"pages/_error.js","/_document":"pages/_document.js","/about":"pages/about.html","/404":"pages/404.html","/arts":"pages/arts.html","/posts/2048":"pages/posts/2048.html","/posts/drama":"pages/posts/drama.html","/posts/food":"pages/posts/food.html","/":"pages/index.html","/posts/ib":"pages/posts/ib.html","/posts":"pages/posts.html","/projects":"pages/projects.html","/posts/anime":"pages/posts/anime.html","/tags/[tag]":"pages/tags/[tag].html"}
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js"
+}
