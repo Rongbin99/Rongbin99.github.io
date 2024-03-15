@@ -20,6 +20,7 @@ export default {
         }
         footer {
           margin-top: 7rem;
+          margin-bottom: -5rem;
           color: white;
         }
         a {
