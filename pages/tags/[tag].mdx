@@ -4,10 +4,19 @@ title: Tagged Posts
 ---
 
 import { useRouter } from "next/router";
+import Lost from '../../components/lost.js';
 
 export const TagName = () => {
   const { tag } = useRouter().query;
-  return tag || null;
+
+  if (tag == "side_project") {
+    return "Side Projects";
+  } else if (tag || null) {
+    return `Posts Tagged with "${tag}"`;
+  } else {
+    <Lost />
+    return null;
+  }
 };
 
-# Posts Tagged with “<TagName/>”
+# <TagName />
