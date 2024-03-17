@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default {
   footer: (
-    <footer className="text-white">
+    <footer className="dark:text-white">
       <small>
         Made by Rongbin Gu. © <time>{YEAR}</time>
         <a href="/feed.xml">RSS</a>
@@ -15,20 +15,12 @@ export default {
 
       </small>
       <style jsx>{`
-        dark.body {
-          color: white !important;
-        }
-        light.body {
-          color: white !important;
-        }
         footer {
           margin-top: 7rem;
           margin-bottom: -5rem;
-          color: white;
         }
         a {
           float: right;
-          color: white;
         }
       `}</style>
     </footer>

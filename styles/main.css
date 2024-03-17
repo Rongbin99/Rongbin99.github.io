@@ -28,8 +28,7 @@ body {
   font-variation-settings: "wght" 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
-  background-color: #592E83;
-  color: #fafafa !important;
+  background-color: #BBD0FF;
 }
 
 b,
@@ -52,6 +51,13 @@ h2 {
   body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #592E83 !important;
+    color: #fafafa !important;
   }
 }
 
