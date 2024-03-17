@@ -9,12 +9,12 @@ const NotFound = () => {
       </Helmet>
 
       <div className="flex flex-col items-center justify-center flex-grow">
-        <div className="text-center text-white">
+        <div className="text-center dark:text-white">
           <h1 className="text-3xl md:text-6xl mb-12">Error 404: Page Not Found</h1>
           <p className="text-base md:text-xl mb-20">erm... if only you had a <a href='https://date-a-live.fandom.com/wiki/Kurumi_Tokisaki#Time_Manipulation' target='_blank' rel='noopener noreferrer'>time machine...</a></p>
         </div>
 
-        <div className='text-center text-white'>
+        <div className='text-center dark:text-white'>
           <button className='text-base md:text-xl py-3 px-6 rounded-xl border-transparent bg-rose-700 hover:bg-fuchsia-700 mb-12'>
             <Link href="/">Rewind to Home</Link>
           </button>
