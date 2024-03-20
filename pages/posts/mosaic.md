@@ -21,3 +21,5 @@ This mobile app was created in Flutter, using Dart for the front-end, Python SQL
 ![Preview](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/786/820/datas/gallery.jpg)
 ![Preview](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/786/822/datas/gallery.jpg)
 ![Preview](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/786/823/datas/gallery.jpg)
+
+Overall, it was a fun experience to be awake for 24 hours, camping at the food table for mealtime, and to explore downtown Toronto and the UofT campus despite being in Toronto for my entire life. I got to catch up with friends whom I haven't seen in a few months, and it made me realize just how many anti suicide tactics are deployed in Myhal and Bahen.
