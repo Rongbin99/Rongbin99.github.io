@@ -2,7 +2,7 @@
 title: Mosaic
 date: 2024/02/29
 description: Mosaic, turn your city into your outdoor playground!
-tag: side_project, dart, flutter, API, hackathon, mobile
+tag: side_project, dart, flutter, API, hackathon, mobile, uoft
 author: Rongbin Gu
 ---
 
