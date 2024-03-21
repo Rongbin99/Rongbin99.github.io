@@ -14,3 +14,5 @@ In the end, I learned a lot about creating an application in Python and using an
 - [GitHub Repository](https://github.com/Rongbin99/The-RongBot)
 
 ![Preview](/images/discord-01.png)
+
+*(yes I use Discord light mode...)*
