@@ -1,6 +1,0 @@
-404 page
--> stylize, add image? (attempt to add tsParticles)
-
-about page
-
-food page
