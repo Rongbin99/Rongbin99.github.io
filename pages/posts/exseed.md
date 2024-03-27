@@ -2,7 +2,7 @@
 title: exSeed
 date: 2024/02/04
 description: exSeed, in the end we all turn to soil.
-tag: side_project, hackathon, flutter, dart, firebase, mac
+tag: side_project, hackathon, flutter, dart, firebase, mcmaster
 author: Rongbin Gu
 ---
 
