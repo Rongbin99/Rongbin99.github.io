@@ -8,10 +8,10 @@ const NotFound = () => {
         <title>Error 404</title>
       </Helmet>
 
-      <div className="flex flex-col items-center justify-center flex-grow">
+      <div className="flex flex-col items-center justify-center flex-grow pt-12">
         <div className="text-center dark:text-white">
           <h1 className="text-3xl md:text-6xl mb-12">Error 404: Page Not Found</h1>
-          <p className="text-base md:text-xl mb-20">erm... if only you had a <a href='https://date-a-live.fandom.com/wiki/Kurumi_Tokisaki#Time_Manipulation' target='_blank' rel='noopener noreferrer'>time machine...</a></p>
+          <p className="text-base md:text-xl mb-16">erm... if only you had a <a href='https://date-a-live.fandom.com/wiki/Kurumi_Tokisaki#Time_Manipulation' target='_blank' rel='noopener noreferrer'>time machine...</a></p>
         </div>
 
         <div className='text-center dark:text-white'>
