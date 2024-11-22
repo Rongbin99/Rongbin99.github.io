@@ -34,10 +34,30 @@ const readingtime = ({context, emoji, wpm = 160}) => {
     }, [context, emoji, wpm]);
 
     return (
-        <p>
+        <p className="-mb-2 -mt-6">
             {timeEstimate}
         </p>
     );
 };
 
 export default readingtime;
+
+/**
+true: '⌛ '
+false: no emoji
+hourglass_done: '⌛ '
+hourglass_not_done: '⏳ '
+stopwatch: '⏱ '
+clock: '🕒 '
+watch: '⌚ '
+timer: '⏲ '
+alarm: '⏰ '
+books: '📚 '
+open_book: '📖 '
+closed_book: '📕 '
+blue_book: '📘 '
+green_book: '📗 '
+orange_book: '📙 '
+notebook: '📓 '
+notebook_alt: '📔 '
+ */
