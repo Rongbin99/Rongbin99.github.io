@@ -11,7 +11,7 @@ Hi there 👋
 Welcome to my personal website! This is a passion project and is worked on passively. 
 
 - Resume: <a href="https://rongbin99.github.io/resume" target="_blank">https://rongbin99.github.io/resume</a>
-- Creative Portfolio: <a href="https://rongbin99.github.io/creative" target="_blank">https://rongbin99.github.io/arts</a>
+- Creative Portfolio: <a href="https://rongbin99.github.io/creative" target="_blank">https://rongbin99.github.io/creative</a>
 - Creative Portfolio Files: <a href="https://github.com/Rongbin99/creative-portfolio" target="_blank">https://github.com/Rongbin99/creative-portfolio</a>
 
 This website was created with [Next.js](https://nextjs.org/), [Nextra MDX](https://nextra.site/), and [Tailwind CSS](https://tailwindcss.com/), using the [blog template](https://github.com/vercel/next.js/tree/canary/examples/blog) provided by Vercel.
