@@ -14,6 +14,8 @@
 /out/
 # production
 /build
+#macOS problems lol
+/.idea
 
 # misc
 .DS_Store
@@ -29,6 +31,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# vscode
+/.vscode
 
 # typescript
 *.tsbuildinfo
