@@ -8,7 +8,7 @@
 
 Hi there 👋
 
-Welcome to my personal website! This is a passion project and is worked on passively. 
+Welcome to my website! This is a passion project and is worked on passively. 
 
 - Resume: <a href="https://rongbin99.github.io/resume" target="_blank">https://rongbin99.github.io/resume</a>
 - Creative Portfolio: <a href="https://rongbin99.github.io/creative" target="_blank">https://rongbin99.github.io/creative</a>
@@ -16,19 +16,19 @@ Welcome to my personal website! This is a passion project and is worked on passi
 
 This website was created with [Next.js](https://nextjs.org/), [Nextra MDX](https://nextra.site/), and [Tailwind CSS](https://tailwindcss.com/), using the [blog template](https://github.com/vercel/next.js/tree/canary/examples/blog) provided by Vercel.
 
+[![CodeQL Advanced](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/codeql.yml/badge.svg)](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/codeql.yml)
+[![Deploy Next.js site to Pages](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/nextjs.yml/badge.svg?branch=main)](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/nextjs.yml)
+
 <div align="center">
 
 ### 🌟 Visit my Website! [**https://rongbin99.github.io/**](https://rongbin99.github.io/) 🌟
 
 </div>
 
-<div align="center">
-
-## 🚨 BROKEN PAGES 🚨
-
-</div>
-
-IF YOU DISCOVER BROKEN LINKS OR PAGES, PLEASE LET ME KNOW! OPEN A ISSUE OR SOMEHOW MESSAGE ME SO I CAN FIX IT ASAP! Thanks :3
+> [!IMPORTANT]
+> 🚨 BROKEN PAGES 🚨
+>
+> If you discover broken links or pages, please let me know! Please open an issue or message me so I can fix it ASAP (or open a PR with the fix :D)! Thanks :3
 
 <div align="center">
 
@@ -37,6 +37,3 @@ IF YOU DISCOVER BROKEN LINKS OR PAGES, PLEASE LET ME KNOW! OPEN A ISSUE OR SOMEH
 </div>
 
 Contact me at __gu.rongbin99@gmail.com__ or __rongbin.gu@uwaterloo.ca__
-
-> [!TIP]
-> You'll have a greater chance of me replying on Instagram or through email (I don't check X / LinkedIn DMs often).
