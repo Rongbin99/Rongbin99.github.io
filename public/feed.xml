@@ -4,7 +4,7 @@
         <description><![CDATA[Rongbin Gu]]></description>
         <link>https://rongbin99.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 Mar 2024 01:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Dec 2024 09:04:07 GMT</lastBuildDate>
         <atom:link href="https://rongbin99.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2048, but Different]]></title>
@@ -12,10 +12,10 @@
             <link>/posts/2048</link>
             <guid isPermaLink="true">/posts/2048</guid>
             <category><![CDATA[side_project]]></category>
-            <category><![CDATA[html/css]]></category>
+            <category><![CDATA[html_css]]></category>
             <category><![CDATA[js]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Thu, 29 Feb 2024 05:00:00 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Animes Watched]]></title>
@@ -25,7 +25,7 @@
             <category><![CDATA[anime]]></category>
             <category><![CDATA[list]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Thu, 14 Mar 2024 04:00:00 GMT</pubDate>
+            <pubDate>Thu, 29 Aug 2024 04:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dramas Watched]]></title>
@@ -35,7 +35,47 @@
             <category><![CDATA[drama]]></category>
             <category><![CDATA[list]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Fri, 15 Mar 2024 04:00:00 GMT</pubDate>
+            <pubDate>Fri, 23 Aug 2024 04:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[exSeed]]></title>
+            <description><![CDATA[exSeed, in the end we all turn to soil.]]></description>
+            <link>/posts/exseed</link>
+            <guid isPermaLink="true">/posts/exseed</guid>
+            <category><![CDATA[side_project]]></category>
+            <category><![CDATA[hackathon]]></category>
+            <category><![CDATA[flutter]]></category>
+            <category><![CDATA[dart]]></category>
+            <category><![CDATA[firebase]]></category>
+            <category><![CDATA[mcmaster]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Sun, 04 Feb 2024 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mosaic]]></title>
+            <description><![CDATA[Mosaic, turn your city into your outdoor playground!]]></description>
+            <link>/posts/mosaic</link>
+            <guid isPermaLink="true">/posts/mosaic</guid>
+            <category><![CDATA[side_project]]></category>
+            <category><![CDATA[dart]]></category>
+            <category><![CDATA[flutter]]></category>
+            <category><![CDATA[api]]></category>
+            <category><![CDATA[hackathon]]></category>
+            <category><![CDATA[uoft]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Thu, 29 Feb 2024 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The RongBot™️]]></title>
+            <description><![CDATA[A multi-purpose Python Discord bot.]]></description>
+            <link>/posts/rongbot</link>
+            <guid isPermaLink="true">/posts/rongbot</guid>
+            <category><![CDATA[side_project]]></category>
+            <category><![CDATA[python]]></category>
+            <category><![CDATA[discord]]></category>
+            <category><![CDATA[api]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Fri, 01 Dec 2023 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UWaterloo Off-Campus Food Places]]></title>
@@ -46,18 +86,18 @@
             <category><![CDATA[uw]]></category>
             <category><![CDATA[school]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Wed, 06 Mar 2024 05:00:00 GMT</pubDate>
+            <pubDate>Sat, 16 Mar 2024 04:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The IB Experience]]></title>
-            <description><![CDATA[The International Baccalaureate program and my experience (Class of M23)]]></description>
-            <link>/posts/ib</link>
-            <guid isPermaLink="true">/posts/ib</guid>
-            <category><![CDATA[ib]]></category>
-            <category><![CDATA[hs]]></category>
-            <category><![CDATA[school]]></category>
+            <title><![CDATA[TTC Nostalgia]]></title>
+            <description><![CDATA[Rewinding the TTC to the 2010s.]]></description>
+            <link>/posts/ttc</link>
+            <guid isPermaLink="true">/posts/ttc</guid>
+            <category><![CDATA[ttc]]></category>
+            <category><![CDATA[transit]]></category>
+            <category><![CDATA[yapping]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Sat, 30 Dec 2023 05:00:00 GMT</pubDate>
+            <pubDate>Tue, 10 Dec 2024 05:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
