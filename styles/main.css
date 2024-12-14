@@ -28,7 +28,7 @@ body {
   font-variation-settings: "wght" 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
-  background-color: #BBD0FF;
+  background: linear-gradient(to right, #E0AAFF, #90E0EF) !important;
 }
 
 b,
@@ -56,7 +56,7 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #592E83 !important;
+    background: linear-gradient(to right, #5A189A, #023E8A) !important;
     color: #fafafa !important;
   }
 }
