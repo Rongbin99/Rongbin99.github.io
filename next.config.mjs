@@ -1,17 +1,17 @@
-import nextra from 'nextra'
+import nextra from 'nextra';
 
 const withNextra = nextra({
   theme: "nextra-theme-blog",
   themeConfig: "./theme.config.jsx",
   latex: {
-    renderer: 'mathjax'
-  }
+    renderer: 'mathjax',
+  },
 });
 
 const nextConfig = {
-  output: 'export',
+  output: 'export', // Enables static export
   images: {
-    unoptimized: true,
+    unoptimized: true, // Required for GitHub Pages to handle images
   },
   // any configs you need
 };
