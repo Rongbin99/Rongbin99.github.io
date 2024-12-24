@@ -18,7 +18,7 @@ This website was created with [Next.js](https://nextjs.org/), [Nextra MDX](https
 
 [![CodeQL Advanced](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/codeql.yml/badge.svg)](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/codeql.yml)
 [![Deploy Next.js site to Pages](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/nextjs.yml/badge.svg?branch=main)](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/nextjs.yml)
-![GitHub Release](https://img.shields.io/github/v/release/Rongbin99/Rongbin99.github.io?style=flat)
+[![GitHub Release](https://img.shields.io/github/v/release/Rongbin99/Rongbin99.github.io?style=flat)](https://github.com/Rongbin99/Rongbin99.github.io/releases)
 
 <div align="center">
 
