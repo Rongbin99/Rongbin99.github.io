@@ -18,6 +18,13 @@
   font-named-instance: "Italic";
 }
 
+/* Gradient animation */
+@keyframes gradientAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
 body {
   font-family: "Inter var", system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
@@ -28,7 +35,9 @@ body {
   font-variation-settings: "wght" 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
-  background: linear-gradient(to right, #E0AAFF, #90E0EF) !important;
+  background: linear-gradient(to right, #E0AAFF, #90E0EF);
+  background-size: 200% 100%;
+  animation: gradientAnimation 10s infinite linear;
 }
 
 b,
@@ -56,7 +65,9 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background: linear-gradient(to right, #5A189A, #023E8A) !important;
+    background: linear-gradient(to right, #5A189A, #023E8A);
+    background-size: 200% 100%;
+    animation: gradientAnimation 10s infinite linear;
     color: #fafafa !important;
   }
 }
