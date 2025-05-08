@@ -6,7 +6,9 @@
 
 </div>
 
-Hi there 👋
+[![CodeQL Advanced](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/codeql.yml/badge.svg)](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/codeql.yml)
+[![Deploy Next.js site to Pages](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/nextjs.yml/badge.svg?branch=main)](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/nextjs.yml)
+[![GitHub Release](https://img.shields.io/github/v/release/Rongbin99/Rongbin99.github.io?style=flat)](https://github.com/Rongbin99/Rongbin99.github.io/releases)
 
 Welcome to my website! This is a passion project and is worked on passively. 
 
@@ -15,10 +17,6 @@ Welcome to my website! This is a passion project and is worked on passively.
 - Creative Portfolio Files: <a href="https://github.com/Rongbin99/creative-portfolio" target="_blank">https://github.com/Rongbin99/creative-portfolio</a>
 
 This website was created with [Next.js](https://nextjs.org/), [Nextra MDX](https://nextra.site/), and [Tailwind CSS](https://tailwindcss.com/), using the [blog template](https://github.com/vercel/next.js/tree/canary/examples/blog) provided by Vercel.
-
-[![CodeQL Advanced](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/codeql.yml/badge.svg)](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/codeql.yml)
-[![Deploy Next.js site to Pages](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/nextjs.yml/badge.svg?branch=main)](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/nextjs.yml)
-[![GitHub Release](https://img.shields.io/github/v/release/Rongbin99/Rongbin99.github.io?style=flat)](https://github.com/Rongbin99/Rongbin99.github.io/releases)
 
 <div align="center">
 
@@ -29,7 +27,7 @@ This website was created with [Next.js](https://nextjs.org/), [Nextra MDX](https
 > [!IMPORTANT]
 > 🚨 BROKEN PAGES 🚨
 >
-> If you discover broken links or pages, please let me know! Please open an issue or message me so I can fix it ASAP (or open a PR with the fix :D)! Thanks :3
+> Please let me know if you discover broken links or pages so I can fix it ASAP (or you can open a PR with the fix :D) Thanks!!
 
 <div align="center">
 
@@ -37,4 +35,12 @@ This website was created with [Next.js](https://nextjs.org/), [Nextra MDX](https
 
 </div>
 
-Contact me at __gu.rongbin99@gmail.com__ or __rongbin.gu@uwaterloo.ca__
+For inquiries, feel free to reach out to me on Discord ([my Discord server link](discord.gg/3ExWbX2AXf)) or via email gu.rongbin99@gmail.com. *(serious inquires only pls)*
+
+<div align="center">
+
+## Contributing
+
+</div>
+
+Contributions are welcome and encouraged! Please fork the repository and create a new pull request for review and approval by a Codeowner.
