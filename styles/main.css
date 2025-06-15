@@ -87,3 +87,24 @@ img.next-image {
 .nav-line .nav-link {
   color: #a1b0c7;
 }
+
+.strava-badge- {
+    display: inline-block;
+    height: 48px;
+}
+
+.strava-badge- img {
+    visibility: hidden;
+    height: 48px;
+}
+
+.strava-badge-:hover {
+    background-position: 0 -63px;
+}
+
+.strava-badge-follow {
+    height: 48px;
+    width: 48px;
+    background: url(//badges.strava.com/echelon-sprite-48.png) no-repeat 0 0;
+    margin-left: 10px;
+}
