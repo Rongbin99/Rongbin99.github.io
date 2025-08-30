@@ -7,6 +7,7 @@
 </div>
 
 [![CodeQL Advanced](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/codeql.yml/badge.svg)](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/codeql.yml)
+![GitHub last commit](https://img.shields.io/github/last-commit/Rongbin99/Rongbin99.github.io)
 [![Deploy Next.js site to Pages](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/nextjs.yml/badge.svg?branch=main)](https://github.com/Rongbin99/Rongbin99.github.io/actions/workflows/nextjs.yml)
 [![GitHub Release](https://img.shields.io/github/v/release/Rongbin99/Rongbin99.github.io?style=flat)](https://github.com/Rongbin99/Rongbin99.github.io/releases)
 
