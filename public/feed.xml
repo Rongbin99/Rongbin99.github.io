@@ -4,7 +4,7 @@
         <description><![CDATA[Rongbin Gu]]></description>
         <link>https://rongbin99.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Dec 2024 09:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 22:37:48 GMT</lastBuildDate>
         <atom:link href="https://rongbin99.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2048, but Different]]></title>
@@ -38,6 +38,17 @@
             <pubDate>Fri, 23 Aug 2024 04:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UWaterloo Off-Campus Food Places]]></title>
+            <description><![CDATA[My favourite off-campus food locations near the University of Waterloo campus.]]></description>
+            <link>/posts/food</link>
+            <guid isPermaLink="true">/posts/food</guid>
+            <category><![CDATA[food]]></category>
+            <category><![CDATA[uw]]></category>
+            <category><![CDATA[school]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Sat, 16 Mar 2024 04:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[exSeed]]></title>
             <description><![CDATA[exSeed, in the end we all turn to soil.]]></description>
             <link>/posts/exseed</link>
@@ -52,18 +63,28 @@
             <pubDate>Sun, 04 Feb 2024 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mosaic]]></title>
-            <description><![CDATA[Mosaic, turn your city into your outdoor playground!]]></description>
-            <link>/posts/mosaic</link>
-            <guid isPermaLink="true">/posts/mosaic</guid>
+            <title><![CDATA[PawLog]]></title>
+            <description><![CDATA[PawLog, Pet Care Tracker]]></description>
+            <link>/posts/pawlog</link>
+            <guid isPermaLink="true">/posts/pawlog</guid>
             <category><![CDATA[side_project]]></category>
-            <category><![CDATA[dart]]></category>
-            <category><![CDATA[flutter]]></category>
-            <category><![CDATA[api]]></category>
+            <category><![CDATA[nextjs]]></category>
             <category><![CDATA[hackathon]]></category>
-            <category><![CDATA[uoft]]></category>
+            <category><![CDATA[mcmaster]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Thu, 29 Feb 2024 05:00:00 GMT</pubDate>
+            <pubDate>Wed, 12 Feb 2025 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PlanIT]]></title>
+            <description><![CDATA[Your AI trip planner.]]></description>
+            <link>/posts/planit</link>
+            <guid isPermaLink="true">/posts/planit</guid>
+            <category><![CDATA[side_project]]></category>
+            <category><![CDATA[react_native]]></category>
+            <category><![CDATA[js]]></category>
+            <category><![CDATA[api]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Sat, 30 Aug 2025 04:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The RongBot™️]]></title>
@@ -78,15 +99,18 @@
             <pubDate>Fri, 01 Dec 2023 05:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UWaterloo Off-Campus Food Places]]></title>
-            <description><![CDATA[My favourite off-campus food locations near the University of Waterloo campus.]]></description>
-            <link>/posts/food</link>
-            <guid isPermaLink="true">/posts/food</guid>
-            <category><![CDATA[food]]></category>
-            <category><![CDATA[uw]]></category>
-            <category><![CDATA[school]]></category>
+            <title><![CDATA[Mosaic]]></title>
+            <description><![CDATA[Mosaic, turn your city into your outdoor playground!]]></description>
+            <link>/posts/mosaic</link>
+            <guid isPermaLink="true">/posts/mosaic</guid>
+            <category><![CDATA[side_project]]></category>
+            <category><![CDATA[dart]]></category>
+            <category><![CDATA[flutter]]></category>
+            <category><![CDATA[api]]></category>
+            <category><![CDATA[hackathon]]></category>
+            <category><![CDATA[uoft]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Sat, 16 Mar 2024 04:00:00 GMT</pubDate>
+            <pubDate>Thu, 29 Feb 2024 05:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TTC Nostalgia]]></title>
