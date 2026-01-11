@@ -13,7 +13,7 @@ const NAV: NavItem[] = [
   { label: "Side Projects", href: "/projects" },
   { label: "Creative Portfolio", href: "/creative" },
   { label: "Posts", href: "/posts" },
-  { label: "Resume →", href: "https://rongbin99.github.io/resume/", external: true },
+  { label: "Resume ↗", href: "https://rongbin99.github.io/resume/", external: true },
 ];
 
 export function SiteNav() {
