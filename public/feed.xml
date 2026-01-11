@@ -4,7 +4,7 @@
         <description><![CDATA[Rongbin Gu]]></description>
         <link>https://rongbin99.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Jan 2026 01:53:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jan 2026 02:50:49 GMT</lastBuildDate>
         <atom:link href="https://rongbin99.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2048, but Different]]></title>
@@ -28,16 +28,6 @@
             <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dramas Watched]]></title>
-            <description><![CDATA[Dramas that I've watched, and my rating.]]></description>
-            <link>/posts/drama</link>
-            <guid isPermaLink="true">/posts/drama</guid>
-            <category><![CDATA[drama]]></category>
-            <category><![CDATA[list]]></category>
-            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[exSeed]]></title>
             <description><![CDATA[exSeed, in the end we all turn to soil.]]></description>
             <link>/posts/exseed</link>
@@ -52,6 +42,16 @@
             <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dramas Watched]]></title>
+            <description><![CDATA[Dramas that I've watched, and my rating.]]></description>
+            <link>/posts/drama</link>
+            <guid isPermaLink="true">/posts/drama</guid>
+            <category><![CDATA[drama]]></category>
+            <category><![CDATA[list]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mosaic]]></title>
             <description><![CDATA[Mosaic, turn your city into your outdoor playground!]]></description>
             <link>/posts/mosaic</link>
@@ -64,6 +64,41 @@
             <category><![CDATA[uoft]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The RongBot™️]]></title>
+            <description><![CDATA[A multi-purpose Python Discord bot.]]></description>
+            <link>/posts/rongbot</link>
+            <guid isPermaLink="true">/posts/rongbot</guid>
+            <category><![CDATA[side_project]]></category>
+            <category><![CDATA[python]]></category>
+            <category><![CDATA[discord]]></category>
+            <category><![CDATA[api]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PawLog]]></title>
+            <description><![CDATA[PawLog, Pet Care Tracker]]></description>
+            <link>/posts/pawlog</link>
+            <guid isPermaLink="true">/posts/pawlog</guid>
+            <category><![CDATA[side_project]]></category>
+            <category><![CDATA[nextjs]]></category>
+            <category><![CDATA[hackathon]]></category>
+            <category><![CDATA[mcmaster]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TTC Nostalgia]]></title>
+            <description><![CDATA[Rewinding the TTC to the 2010s.]]></description>
+            <link>/posts/ttc</link>
+            <guid isPermaLink="true">/posts/ttc</guid>
+            <category><![CDATA[ttc]]></category>
+            <category><![CDATA[transit]]></category>
+            <category><![CDATA[yapping]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UWaterloo Off-Campus Food Places]]></title>
@@ -87,41 +122,6 @@
             <category><![CDATA[api]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
             <pubDate>Sat, 30 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PawLog]]></title>
-            <description><![CDATA[PawLog, Pet Care Tracker]]></description>
-            <link>/posts/pawlog</link>
-            <guid isPermaLink="true">/posts/pawlog</guid>
-            <category><![CDATA[side_project]]></category>
-            <category><![CDATA[nextjs]]></category>
-            <category><![CDATA[hackathon]]></category>
-            <category><![CDATA[mcmaster]]></category>
-            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The RongBot™️]]></title>
-            <description><![CDATA[A multi-purpose Python Discord bot.]]></description>
-            <link>/posts/rongbot</link>
-            <guid isPermaLink="true">/posts/rongbot</guid>
-            <category><![CDATA[side_project]]></category>
-            <category><![CDATA[python]]></category>
-            <category><![CDATA[discord]]></category>
-            <category><![CDATA[api]]></category>
-            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TTC Nostalgia]]></title>
-            <description><![CDATA[Rewinding the TTC to the 2010s.]]></description>
-            <link>/posts/ttc</link>
-            <guid isPermaLink="true">/posts/ttc</guid>
-            <category><![CDATA[ttc]]></category>
-            <category><![CDATA[transit]]></category>
-            <category><![CDATA[yapping]]></category>
-            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
