@@ -4,7 +4,7 @@
         <description><![CDATA[Rongbin Gu]]></description>
         <link>https://rongbin99.github.io/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Jan 2026 02:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jan 2026 03:07:38 GMT</lastBuildDate>
         <atom:link href="https://rongbin99.github.io/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2048, but Different]]></title>
@@ -52,6 +52,17 @@
             <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[UWaterloo Off-Campus Food Places]]></title>
+            <description><![CDATA[My favourite off-campus food locations near the University of Waterloo campus.]]></description>
+            <link>/posts/food</link>
+            <guid isPermaLink="true">/posts/food</guid>
+            <category><![CDATA[food]]></category>
+            <category><![CDATA[uw]]></category>
+            <category><![CDATA[school]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mosaic]]></title>
             <description><![CDATA[Mosaic, turn your city into your outdoor playground!]]></description>
             <link>/posts/mosaic</link>
@@ -64,6 +75,18 @@
             <category><![CDATA[uoft]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PlanIT]]></title>
+            <description><![CDATA[Your AI trip planner.]]></description>
+            <link>/posts/planit</link>
+            <guid isPermaLink="true">/posts/planit</guid>
+            <category><![CDATA[side_project]]></category>
+            <category><![CDATA[react_native]]></category>
+            <category><![CDATA[js]]></category>
+            <category><![CDATA[api]]></category>
+            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
+            <pubDate>Sat, 30 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The RongBot™️]]></title>
@@ -99,29 +122,6 @@
             <category><![CDATA[yapping]]></category>
             <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
             <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UWaterloo Off-Campus Food Places]]></title>
-            <description><![CDATA[My favourite off-campus food locations near the University of Waterloo campus.]]></description>
-            <link>/posts/food</link>
-            <guid isPermaLink="true">/posts/food</guid>
-            <category><![CDATA[food]]></category>
-            <category><![CDATA[uw]]></category>
-            <category><![CDATA[school]]></category>
-            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PlanIT]]></title>
-            <description><![CDATA[Your AI trip planner.]]></description>
-            <link>/posts/planit</link>
-            <guid isPermaLink="true">/posts/planit</guid>
-            <category><![CDATA[side_project]]></category>
-            <category><![CDATA[react_native]]></category>
-            <category><![CDATA[js]]></category>
-            <category><![CDATA[api]]></category>
-            <dc:creator><![CDATA[Rongbin Gu]]></dc:creator>
-            <pubDate>Sat, 30 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

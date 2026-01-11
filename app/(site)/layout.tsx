@@ -15,7 +15,7 @@ export default async function SiteLayout({
 
       <Footer>
         <footer className="dark:text-white -mb-20" data-pagefind-ignore="all">
-          <small style={{ fontSize: "1em" }}>
+          <small className="site-footer-text">
             Made by Rongbin Gu. © <time>{new Date().getFullYear()}</time>
 
             <SocialIcon

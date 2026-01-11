@@ -142,6 +142,10 @@ article.x\:container {
   padding-right: 10rem !important;
 }
 
+.site-footer-text {
+  font-size: 1em;
+}
+
 .not-found-img {
   height: 400px;
   width: 400px;
