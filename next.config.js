@@ -1,8 +1,6 @@
-const withNextra = require("nextra")({
-  theme: "nextra-theme-blog",
-  themeConfig: "./theme.config.js",
-  unstable_staticImage: true,
-  // optional: add `unstable_staticImage: true` to enable Nextra's auto image import
+const nextra = require("nextra").default;
+const withNextra = nextra({
+  staticImage: true,
 });
 
 /** @type {import('next').NextConfig} */

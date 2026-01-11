@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 @font-face {
   font-family: "Inter var";
@@ -107,4 +105,44 @@ img.next-image {
     width: 48px;
     background: url(//badges.strava.com/echelon-sprite-48.png) no-repeat 0 0;
     margin-left: 10px;
+}
+
+/* ---- Nextra v4 blog theme overrides ---- */
+
+.site-nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1rem;
+  margin: 0.25rem 0 2rem;
+  font-size: 0.95rem;
+  font-variation-settings: "wght" 550;
+}
+
+.site-nav a {
+  text-decoration: none;
+}
+
+.site-nav a[aria-current="true"] {
+  opacity: 0.6;
+}
+
+article > h1:first-child {
+  text-align: center;
+}
+
+article {
+  line-height: 1.6;
+}
+
+/* content container */
+article.x\:container {
+  max-width: 1200px !important;
+  padding-left: 10rem !important;
+  padding-right: 10rem !important;
+}
+
+.not-found-img {
+  height: 400px;
+  width: 400px;
 }
