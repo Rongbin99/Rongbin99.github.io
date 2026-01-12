@@ -138,8 +138,32 @@ article {
 /* content container */
 article.x\:container {
   max-width: 1200px !important;
-  padding-left: 10rem !important;
-  padding-right: 10rem !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+/* Tablet and larger */
+@media (min-width: 768px) {
+  article.x\:container {
+    padding-left: 4rem !important;
+    padding-right: 4rem !important;
+  }
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  article.x\:container {
+    padding-left: 8rem !important;
+    padding-right: 8rem !important;
+  }
+}
+
+/* Large desktop */
+@media (min-width: 1280px) {
+  article.x\:container {
+    padding-left: 10rem !important;
+    padding-right: 10rem !important;
+  }
 }
 
 .site-footer-text {
