@@ -107,6 +107,16 @@ img.next-image {
     margin-left: 10px;
 }
 
+.beli {
+  height: 48px;
+  width: 48px;
+  background: url(/images/beli.jpg) no-repeat 0 0;
+  background-size: cover;
+  margin-left: 10px;
+  border-radius: 12px;
+  display: inline-block;
+}
+
 /* ---- Nextra v4 blog theme overrides ---- */
 
 .site-nav {
