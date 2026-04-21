@@ -4,7 +4,7 @@ import { getPageMap } from "nextra/page-map";
 import matter from "gray-matter";
 import { promises as fs } from "fs";
 import path from "path";
-import { hasTag, normalizeFrontMatter, splitTags } from "../../../../lib/postMeta";
+import { dateToEpochMs, hasTag, normalizeFrontMatter, splitTags } from "../../../../lib/postMeta";
 
 export const dynamic = "force-static";
 
@@ -41,7 +41,8 @@ export default async function TagPage(props: {
     .filter((item) => item && typeof item === "object")
     .filter((item) => typeof item.route === "string" && item.frontMatter)
     .filter((item) => item.route !== "/posts")
-    .filter((item) => hasTag(item.frontMatter, tag));
+    .filter((item) => hasTag(item.frontMatter, tag))
+    .sort((a, b) => dateToEpochMs((b as any).frontMatter?.date) - dateToEpochMs((a as any).frontMatter?.date));
 
   return (
     <>
