@@ -15,11 +15,7 @@ export default async function PostsPage() {
     .filter((item) => item && typeof item === "object")
     .filter((item) => typeof item.route === "string" && item.frontMatter)
     .filter((item) => item.route !== "/posts")
-    .sort((a, b) => {
-      const aTime = dateToEpochMs(a.frontMatter?.date);
-      const bTime = dateToEpochMs(b.frontMatter?.date);
-      return bTime - aTime;
-    });
+    .sort((a, b) => dateToEpochMs((b as any).frontMatter?.date) - dateToEpochMs((a as any).frontMatter?.date));
 
   return (
     <>
